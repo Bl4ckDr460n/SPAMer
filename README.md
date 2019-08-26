@@ -1,3 +1,6 @@
+New Version (1.3):
+1.Fix Error Spam Call
+
 Installing
 - pkg install python2 git
 - pip2 install requests
